@@ -6,3 +6,4 @@
 ||chatroulette.to^
 ||4chan.org^
 ||kik.com^
+||talkie-ai.com^
