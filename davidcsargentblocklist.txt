@@ -7,3 +7,6 @@
 ||4chan.org^
 ||kik.com^
 ||talkie-ai.com^
+||polyai.ai^
+||polyspeak.ai^
+||socialapps.ai^
